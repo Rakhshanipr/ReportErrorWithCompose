@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReportErrorWithCompose</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="pfm_report_error_description">ممکن است به دلیل اختلالات شبکه بانکی، برخی از تراکنش‌ها ثبت نشده باشد و مبلغ واریز و برداشت نمایش داده شده، صحیح نباشد.در صورت بروز این مشکل می‌توانید از طریق کادر پایین آن را به واحد پشتیبانی اطلاع دهید.</string>
+
+
+</resources>
